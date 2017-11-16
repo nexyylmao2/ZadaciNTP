@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace Zadatak1
 {
+    class Trougao
+    {
+        // bla bla bla
+    }
+
     class Program
     {
         static void Main(string[] args)
